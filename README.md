@@ -23,6 +23,7 @@ Currently Residing in Abbottabad, Pakistan, I am a devoted developer weaving the
 - GitHub: [amatsukami0420](https://github.com/amatsukami0420)
 - Instagram: [@amatsukami.0420](https://instagram.com/amatsukami.0420)
 - Discord: [@amatsukami.0420](https://discordapp.com/users/788811899965931593)
+- LinkedIn: [Muhammad Waleed Bin Anwar](www.linkedin.com/in/mwba0420)
 
 ## ⚡ Mysteries and Pastimes
 - **Hobbies:** The ancient game of chess captivates my intellect. Connect with me on [chess.com](https://www.chess.com/member/hachimankanzaki)
