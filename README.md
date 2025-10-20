@@ -13,7 +13,7 @@
   <a href="https://instagram.com/amatsukami.0420" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.chess.com/member/hachimankanzaki" target="_blank">
+  <a href="https://www.chess.com/member/Frieren_Gambit" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chess&logoColor=white" alt="Chess.com"/>
   </a>
 </p>
