@@ -6,7 +6,7 @@
 
 * `>` B.S. Computer Science student, grounded in C/C++ and currently focused on Java.
 * `>` I am patiently collecting the "folk magic" of our time: the spark of **Artificial Intelligence**, the craft of **Game Development (Unity/C#)**, and the wards of **Cybersecurity** (Google Certificate in-progress).
-* `>` This collection serves a quiet, life-long chase: to architect a world with a tangible soul, one where **its beings live autonomously**, and **its culture speaks in a unique, living language** I am patiently designing.
+* `>` This collection serves a quiet, life-long chase: to architect a digital world with a tangible soul, one where **its beings live autonomously**, and **its culture speaks in a unique, living language** I am patiently designing.
 
 ### `// --- Connect With Me ---`
 
