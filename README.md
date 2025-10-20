@@ -1,31 +1,36 @@
-# Greetings, Traveler. 👋 I am Muhammad Waleed Bin Anwar 🌟
+```bash
+[~]$ whoami
+```
 
-Currently Residing in Abbottabad, Pakistan, I am a devoted developer weaving the intricate tapestry of code and innovation. Here’s a glimpse into the world I inhabit:
+Hello! I'm **Muhammad Waleed Bin Anwar**, a developer and digital explorer based in Abbottabad, Pakistan.
 
-## 🌱 Pursuits of Knowledge
-- Embarking on a journey through the realms of Computer Science for a Bachelor's Degree.
+I'm on a journey through the realms of Computer Science, currently building my skills and architecting new solutions. Welcome to my personal repository.
 
-## 💼 Current Vocation
-- A dedicated seeker of knowledge at COMSATS University Islamabad, Abbottabad Campus.
+### `// --- Current Status ---`
 
-## 🌟 Contributions to the Digital Realm
-- My repositories and projects can be discovered on GitHub: [amatsukami0420](https://github.com/amatsukami0420), where each line of code tells a story.
+* `>` Pursuing a B.S. in Computer Science from **COMSATS University Islamabad, Abbottabad Campus** ([CUI Atd](https://www.cuiatd.edu.pk/)).
+* `>` Actively exploring new technologies and building projects (you can see my work right here on GitHub).
 
-## 🎓 Academic Pathway
-- Bachelor of Science in Computer Science from COMSATS University Islamabad, Abbottabad Campus ([CUI Atd](https://www.cuiatd.edu.pk/)).
+### `// --- Hobbies & Pastimes ---`
 
-## 📫 Channels of Communication
-- Personal Correspondence: ipman2882004@gmail.com
-- Academic Correspondence: fa24-bcs-110@cuiatd.edu.pk
-- Enigmatic Whisper: +92 3422166635
+* `>` When I'm not compiling code, I'm often calculating my next move on the chessboard.
+* `>` Connect for a game: [chess.com](https://www.chess.com/member/hachimankanzaki)
 
-## 🌍 Bridges to My World
-- GitHub: [amatsukami0420](https://github.com/amatsukami0420)
-- Instagram: [@amatsukami.0420](https://instagram.com/amatsukami.0420)
-- Discord: [@amatsukami.0420](https://discordapp.com/users/788811899965931593)
-- LinkedIn: [Muhammad Waleed Bin Anwar](www.linkedin.com/in/mwba0420)
+### `// --- Channels of Communication ---`
 
-## ⚡ Mysteries and Pastimes
-- **Hobbies:** The ancient game of chess captivates my intellect. Connect with me on [chess.com](https://www.chess.com/member/hachimankanzaki)
+* **LinkedIn:** [Muhammad Waleed Bin Anwar](https://www.linkedin.com/in/mwba0420)
+* **Email (Personal):** `ipman2882004@gmail.com`
+* **Email (Academic):** `fa24-bcs-110@cuiatd.edu.pk`
+* **Phone:** `+92 3422166635`
 
-Thank you for delving into my world. May your journeys be filled with code and discovery. 🚀
+### `// --- Bridges to My World ---`
+
+* **GitHub:** [amatsukami0420](https://github.com/amatsukami0420)
+* **Discord:** `@amatsukami.0420` (ID: `788811899965931593`)
+* **Instagram:** [@amatsukami.0420](https://instagram.com/amatsukami.0420)
+
+***
+
+<p align="center">
+  May your journeys be filled with discovery. < / >
+</p>
