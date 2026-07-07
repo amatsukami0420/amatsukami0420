@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Muhammad+Waleed+Bin+Anwar;I'm+a+developer+from+Pakistan;A+BSc+Computer+Science+Student;An+avid+chess+player;Welcome+to+my+GitHub." alt="Typing SVG" />
-</p>
-
 ### `// --- About Me ---`
 
 * `>` B.S. Computer Science student, grounded in C/C++ and currently focused on Java.
@@ -10,10 +6,6 @@
 
 ### `// --- Connect With Me ---`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mwba0420" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://discordapp.com/users/788811899965931593" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -27,12 +19,6 @@
 <p align="center">
   <a href="mailto:ipman2882004@gmail.com">
     <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
-  </a>
-  <a href="mailto:fa24-bcs-110@cuiatd.edu.pk">
-    <img src="https://img.shields.io/badge/University_Email-006400?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="University Email"/>
-  </a>
-  <a href="https://wa.me/923422166635" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
